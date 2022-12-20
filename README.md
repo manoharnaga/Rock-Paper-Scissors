@@ -1,7 +1,7 @@
-### This is a problem-solution assignment done as a part of the course **Automata Theory**
+### This is a problem-solution repo which is done as a part of the course **Automata Theory**
 <br>
 
-
+### ***please check the Assignment.pdf for problem statements and other info***
 
 ### **In 1.Cellular Automata**
 ### rule.py's follow the Cellular Automato's given in Assignment.pdf
